@@ -1,7 +1,6 @@
 # BugBank - Automação Web
 
-Teste automatizado de transferência entre contas no [BugBank](https://bugbank.netlify.app/),
-seguindo o padrão Page Objects / Tasks / Validação do projeto `automacaowebfundatec2`.
+Teste automatizado de transferência entre contas no [BugBank](https://bugbank.netlify.app/).
 
 ## Fluxo do teste
 
